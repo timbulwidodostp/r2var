@@ -1,4 +1,6 @@
-D 'robnova': Calculates two robust ANOVA statistics, Welch's and Brown-Forsythe's Use robnova With STATA 19
+D 'r2var': Vector autoregressive (VAR) Overall System R2, F-Test, and Chi2-Test Use r2var With STATA 19
 D
-F robnova.ado
-F robnova.sthlp
+F _gvarprod.ado
+F r2var.ado
+F r2var.dlg
+F r2var.sthlp
