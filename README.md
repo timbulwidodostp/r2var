@@ -1,6 +1,8 @@
 # r2var
 Vector autoregressive (VAR) Overall System R2, F-Test, and Chi2-Test Use r2var With STATA 19
 
+https://www.youtube.com/watch?v=LnvW45nereM
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
